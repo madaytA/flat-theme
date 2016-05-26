@@ -1,0 +1,24 @@
+$color_text_menu:#fff;
+body{
+	color: #000;
+	font-family: Roboto, sans-serif;
+	font-size: 13px;
+}
+.header{
+	background: #333;
+	color: #fff;
+}
+.list-menu{
+	list-style:none;
+	margin: 0;
+	padding: 0;
+}
+.list-menu li{
+	display: inline-block;
+}
+.list-menu a{
+	padding: 5px 10px;
+}
+.list-menu a:hover{
+	
+}
